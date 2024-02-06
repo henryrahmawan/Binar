@@ -4,7 +4,7 @@ function TentukanLuasDanKelilingSegitigaSamaSisi(a, t) {
   // TODO: buat logic dibawah sini dimana alasnya 1 cm dan tingginya 2 cm
 	
 
-	const luas = (alas * tinggi) / 2;
+ 	const luas = (alas * tinggi) / 2;
   const keliling = 3 * alas;
   console.log("Alas Segitiga:", alas, "cm");
   console.log("Tingga Segitiga:", tinggi, "cm");
